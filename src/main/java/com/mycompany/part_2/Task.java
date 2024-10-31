@@ -8,7 +8,7 @@ package com.mycompany.part_2;
 import javax.swing.JOptionPane;
 /**
  *
- * @author RC_Student_lab
+ * @author Ngetelo
  */
 public class Task {
    
