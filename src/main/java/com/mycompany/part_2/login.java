@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author unathi
+ * @author Ngetelo
  */
 public class login {
     private String     name,lastname,password,username;
