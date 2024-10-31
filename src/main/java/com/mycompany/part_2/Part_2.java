@@ -12,7 +12,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author unathi
+ * @author Ngetelo
  */
 public class Part_2 {
 // String name,lastname,password,username;
